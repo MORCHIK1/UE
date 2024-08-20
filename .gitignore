@@ -49,6 +49,7 @@ SourceArt/**/*.tga
 MyProject/Binaries/*
 MyProject/Plugins/*/Binaries/*
 
+
 # Builds
 Build/*
 
@@ -72,3 +73,5 @@ MyProject/Plugins/*/Intermediate/*
 
 # Cache files for the editor to use
 MyProject/DerivedDataCache/*
+
+MyProject/Content/Kobo_Dungeon
