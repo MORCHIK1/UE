@@ -70,6 +70,7 @@ MyProject/Saved/*
 # Compiled source files for the engine to use
 MyProject/Intermediate/*
 MyProject/Plugins/*/Intermediate/*
+MyProject2
 
 # Cache files for the editor to use
 MyProject/DerivedDataCache/*
